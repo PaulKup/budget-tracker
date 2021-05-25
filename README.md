@@ -1,7 +1,7 @@
 # Budget Tracker
   <img src='https://img.shields.io/badge/LICENSE-MIT-blue'/> 
 
- (./screenshot.png)
+ (screenshot.png)
 
   ## Description
   Budget tracker is a full stack progressive web application that gives offline functionality to the user as well as the ability to download the app and save it to the home screen of a smartphone.
